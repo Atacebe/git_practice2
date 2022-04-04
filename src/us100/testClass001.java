@@ -6,6 +6,8 @@ public class testClass001 {
         System.out.println("Hello");
 
         System.out.println("hello word");
+
+        // git rm--cached git_practice2
     }
 
 }
